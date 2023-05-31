@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hi! my name is hyejeong jo.
+i'm interested in AI inteligence.
+
 <!--
 **girlsending0/girlsending0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
