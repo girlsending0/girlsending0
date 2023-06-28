@@ -54,7 +54,7 @@ Hello there! I have a dream of understanding data and using various technologies
 
 ###  🖌 Author access 🖌
 <div style="display:flex; flex-direction:row;">
-    <a href="[https://htuck-dev.tistory.com](https://scholar.google.co.kr/citations?user=oJBi0z0AAAAJ&hl=ko&oi=sra)">
+    <a href="https://scholar.google.co.kr/citations?user=oJBi0z0AAAAJ&hl=ko&oi=sra">
         <img src="https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"> 
     </a>
 
