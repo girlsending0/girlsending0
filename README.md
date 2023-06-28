@@ -48,7 +48,7 @@ Hello there! I have a dream of understanding data and using various technologies
 ### 📜 **Conference**   
 * Hyejeong Jo, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity.한국정보과학회 학술발표논문집,(),1474-1476.
 
----
+
 
 # Contact me! 
 
