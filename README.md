@@ -33,11 +33,11 @@ Hello there! I have a dream of understanding data and using various technologies
 * LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition, 2023.02~2023.06. fin
 
 ### 🥇 **Awards**  
-* (2022-04) Selected as an Excellent College Student in Cheonan City in 2022.
+* (2022-04) Selected as an Excellent College Student(천안시 대학 장학생 선정) in Cheonan City in 2022.
 * (2022-08) San Jose State University SV Software Technology and Innovation Program, Received the **Outstanding Effort** prize.
 * (2022-11) Ranked **2nd in 2022 AI Hub 학습 데이터 기반 해커톤 대회 (AI Hub 양봉 학습데이터 활용 분야)**: 딥러닝 기반 벌 종류 분류 시스템
-* (2023-02) 2023 **Korea Space Science Association President's Award**.  
-* (2023-02) Received the **best Presentation Award** at Korea **Software Congress (KSC) 2022** Poster Presentation.
+* (2023-02) 2023 **Korea Space Science Association President's Award (한국우주과학회장상 수상)**.  
+* (2023-02) Received the **best Presentation Award (우수발표)** at Korea **Software Congress (KSC) 2022** Poster Presentation.
 * (2023-06) Team AIMS (Juhyuk, Hye Jeong, Tae Seong) won the 2nd prize (**과학기술정보통신부장관상 수상**) at the **2023 ETRI 휴먼이해
 인공지능 논문경진대회**. Well deserved.   Press (Selected): [news1](https://www.etnews.com/20230621000124) [news2](http://biz.heraldcorp.com/view.php?ud=20230621000315) [news3](https://www.gttkorea.com/news/articleView.html?idxno=5685)
 
@@ -46,7 +46,7 @@ Hello there! I have a dream of understanding data and using various technologies
 * Jo, Hye Jeong, et al. "Analysis of a CubeSat Magnetic Cleanliness for the Space Science Mission." Journal of Space Technology and Applications 2.1 (2022): 41-51.
 
 ### 📜 **Conference**   
-* Hyejeong Jo, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity.한국정보과학회 학술발표논문집,(),1474-1476.
+* Hyejeong Jo, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity.한국정보과학회 학술발표논문집,(),1474-1476.(**Best Presentation Award**)
 
 
 
