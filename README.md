@@ -34,7 +34,7 @@ Hello there! I have a dream of understanding data and using various technologies
 ### 🥇 **Awards**  
 * (2022-04) Selected as an Excellent College Student(천안시 대학 장학생 선정) in Cheonan City in 2022.
 * (2022-08) San Jose State University SV Software Technology and Innovation Program, Received the **Outstanding Effort** prize.
-* (2022-11) Ranked **2nd in 2022 AI Hub 학습 데이터 기반 해커톤 대회 (AI Hub 양봉 학습데이터 활용 분야)**: 딥러닝 기반 벌 종류 분류 시스템
+* (2022-11) Ranked **2nd(금상) in 2022 AI Hub 학습 데이터 기반 해커톤 대회 (AI Hub 양봉 학습데이터 활용 분야)**: 딥러닝 기반 벌 종류 분류 시스템[news1](http://www.e2news.com/news/articleView.html?idxno=248158)
 * (2023-02) 2023 **Korea Space Science Association President's Award (한국우주과학회장상 수상)**.  
 * (2023-02) Received the **best Presentation Award (우수발표)** at Korea **Software Congress (KSC) 2022** Poster Presentation.
 * (2023-06) Team AIMS (Juhyuk, Hye Jeong, Tae Seong) won the 2nd prize (**과학기술정보통신부장관상 수상**) at the **2023 ETRI 휴먼이해
