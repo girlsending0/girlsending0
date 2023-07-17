@@ -20,9 +20,8 @@ Hello there! I have a dream of understanding data and using various technologies
 ### 🌠 **Skill Highlights**  
 * Network science
 * Signal processing technique (Experience in processing physiological signals such as EEG (Electroencephalography), EDA (Electrodermal Activity), and TEMP (Temperature), etc.) 
-* Machine/Deep Learning
+* Machine Learning/Deep Learning
 * Natural Language Processing
-* Computer Vision
 * Graph Neural Networks
 
 ### 👀 **Experience**  
