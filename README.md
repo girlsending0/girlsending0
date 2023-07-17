@@ -25,11 +25,11 @@ Hello there! I have a dream of understanding data and using various technologies
 * Graph Neural Networks
 
 ### 👀 **Experience**  
-* Analysis of a CubeSat Magnetic Cleanliness for the Space Science Mission, 2020.07~2020.09. fin
-* EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity, 2022.01~2023.02. fin
+* Analysis of a CubeSat Magnetic Cleanliness for the Space Science Mission, 2020.07~2020.09. fin **[2021 KSSS poster presentation (2021 춘계 한국우주과학회 포스터 발표)]**
+* EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity, 2022.01~2023.02. fin **[2022 KSC poster presentation and best presentation Award (2022 한국 소프트웨어종합학술대회 포스터 발표 및 우수상 수상)]**
 * SV Software Technology and Innovation Program at San Jose State University, located in Silicon Valley, 2022.06~2023.08. fin
 * AI Hub Hackathon Competition based on Learning Data, specifically in the field of utilizing AI Hub's beekeeping training data, developed a deep learning-based system for classifying different bee species.
-* LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition, 2023.02~2023.06. fin
+* LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition, 2023.02~2023.06. fin **[2023 KCC Oral session and 2nd Prize (2023 한국 컴퓨터종합학술대회 포스터 발표 및 과학기술정보통신부 장관상 수상)]**
 
 ### 🥇 **Awards**  
 * (2022-04) Selected as an Excellent College Student(천안시 대학 장학생 선정) in Cheonan City in 2022.
