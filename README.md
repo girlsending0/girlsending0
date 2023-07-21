@@ -13,8 +13,8 @@ Hello there! I have a dream of understanding data and using various technologies
 ### 💼 **Career**  
 
 * Undergraduate Researcher at AIR(Small Satellite, CubeSat, and Science Payload) Lab, Kyung Hee University, Korea, 2020.07 ~ 2020.09.
-* Undergraduate Researcher at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2022.08 ~ 2023.03.
-* MS students at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2023.03 ~.
+* Undergraduate Researcher at **Artificial Intelligence & Medical Science Lab, Kyung Hee University**, Korea, 2022.08 ~ 2023.03.
+* **MS students** at **Artificial Intelligence & Medical Science Lab, Kyung Hee University**, Korea, 2023.03 ~.
   [Lab site](https://sites.google.com/view/khu-aims/home)
 
 ### 🌠 **Skill Highlights**  
