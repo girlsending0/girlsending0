@@ -8,7 +8,7 @@ Hello there! I have a dream of understanding data and using various technologies
 
 * **BE** in **Software Convergence**, Kyung Hee University (2023)
 * **BS** in **Astronomy & Space Science**, Kyung Hee University (2023)
-* **MS** Student (2023 - ), Department of **Software Convergence**, 
+* **MS** Student (2023 - ), Department of **Software Convergence**, Kyung Hee University (2023)
 
 ### 💼 **Career**  
 
