@@ -36,7 +36,7 @@ Hello there! I have a dream of understanding data and using various technologies
 * (2022-11) Ranked **2nd(금상) in 2022 AI Hub 학습 데이터 기반 해커톤 대회 (AI Hub 양봉 학습데이터 활용 분야)**: 딥러닝 기반 벌 종류 분류 시스템: [news1](http://www.e2news.com/news/articleView.html?idxno=248158)
 * (2023-02) 2023 **Korea Space Science Association President's Award (한국우주과학회장상 수상)**.  
 * (2023-02) Received the **best Presentation Award (우수발표)** at Korea **Software Congress (KSC) 2022** Poster Presentation.
-* (2023-06) Team AIMS (Juhyuk, Hye Jeong, Tae Seong) won the 2nd prize (**과학기술정보통신부장관상 수상**) at the **2023 ETRI 휴먼이해
+* (2023-06) Team AIMS (Juhyuk, Hye Jeong, Tae Seong) won the **2nd prize** (**과학기술정보통신부장관상 수상**) at the **2023 ETRI 휴먼이해
 인공지능 논문경진대회**(총 144개팀 318명 참가) Well deserved.   Press (Selected): [news1](https://www.etnews.com/20230621000124) [news2](http://biz.heraldcorp.com/view.php?ud=20230621000315) [news3](https://www.gttkorea.com/news/articleView.html?idxno=5685)
 
 
