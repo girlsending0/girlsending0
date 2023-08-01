@@ -1,14 +1,16 @@
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=🌜%20Welcome%20to%20Hyejeong's%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=43&height=250)   
-# About me!  
+# About me! 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgirlsending0%2Fhit-counter&count_bg=%23EFA5C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Hello there! I have a dream of understanding data and using various technologies to make a positive impact on the world. That's why I'm currently studying the analysis of data and applying the findings to develop AI models. My current focus lies in utilizing physiological signals, including brainwaves, to develop diverse AI models.
   
 ### 🎓 **Degree**
 
+* **MS** Student (2023 - ), Department of **Software Convergence**, Kyung Hee University
 * **BE** in **Software Convergence**, Kyung Hee University (2023)
 * **BS** in **Astronomy & Space Science**, Kyung Hee University (2023)
-* **MS** Student (2023 - ), Department of **Software Convergence**, Kyung Hee University
 
 ### 💼 **Career**  
 
@@ -47,6 +49,12 @@ Hello there! I have a dream of understanding data and using various technologies
 ### 📜 **Conference**   
 * Hyejeong Jo, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity.한국정보과학회 학술발표논문집,(),1474-1476.(**Best Presentation Award**)
 
+## 🔨 **Languages and Tools**
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,matlab" />
+</p>
+<img src="https://skillicons.dev/icons?i=vscode,github,linux" />
+</a>
 
 
 # Contact me! 
@@ -60,39 +68,10 @@ Hello there! I have a dream of understanding data and using various technologies
 </div><br>
 
 ###  💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://htuck-dev.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=htuck-dev&theme=tistory)](https://htuck-dev.tistory.com)
 
 </div><br>
  
-### 📞 Follow me 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/hjung_._/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:girlsending0@khu.ac.kr">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-    
-### 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:row;">
-    <br>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <br>
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
-    <br>
-</div><br>
+
 </div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgirlsending0%2Fhit-counter&count_bg=%23EFA5C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Hyejeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlsending0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
