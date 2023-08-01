@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=🌜%20Welcome%20to%20Hyejeong's%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=43&height=250)   
+
 # About me! 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgirlsending0%2Fhit-counter&count_bg=%23EFA5C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
