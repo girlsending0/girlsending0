@@ -48,9 +48,7 @@ Hello there! I have a dream of understanding data and using various technologies
 
 ## 🔨 **Languages and Tools**
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,matlab" />
-</p>
-<img src="https://skillicons.dev/icons?i=vscode,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,matlab,vscode,github,linux" />
 </a>
 
 
