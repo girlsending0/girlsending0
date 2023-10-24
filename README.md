@@ -28,6 +28,7 @@ Hello there! I have a dream of understanding data and using various technologies
 * SV Software Technology and Innovation Program at San Jose State University, located in Silicon Valley, 2022.06~2023.08. fin
 * AI Hub Hackathon Competition based on Learning Data, specifically in the field of utilizing AI Hub's beekeeping training data, developed a deep learning-based system for classifying different bee species.
 * LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition, 2023.02~2023.06. fin **[2023 KCC Oral session and 2nd Prize (2023 한국 컴퓨터종합학술대회 포스터 발표 및 과학기술정보통신부 장관상 수상)]**
+* Developing an integrated dashboard to analyze multimodal data for user experience evaluation **[2023 ICCE-asia poster session]**
 
 ### 🥇 **Awards**  
 * (2022-04) Selected as an Excellent College Student(천안시 대학 장학생 선정) in Cheonan City in 2022.
@@ -42,8 +43,11 @@ Hello there! I have a dream of understanding data and using various technologies
 ### 📝 **Journal**   
 * Jo, Hye Jeong, et al. "Analysis of a CubeSat Magnetic Cleanliness for the Space Science Mission." Journal of Space Technology and Applications 2.1 (2022): 41-51.
 
-### 📜 **Conference**   
-* Hyejeong Jo, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity.한국정보과학회 학술발표논문집,(),1474-1476.(**Best Presentation Award**)
+### 📜 **Conference** 
+* **Hyejeong Jo**, Junhyeok Lee, Hye Won Park, Minjae Kim, Yeonwoo Kim, Won Hee Lee, Developing an integrated dashboard to analyze multimodal data for user experience evaluation, The 8th International Conference on Consumer Electronics (ICCE) Asia, Busan, South Korea, Oct 23-25, 2023
+*  JH Han, TS kim, **HJ Jo**, WH Leem LMR-CL: LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition. Korea computer congress, 한국컴퓨터종합학술대회(KCC) **(co-first author)**
+* **Hyejeong Jo**, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity.한국정보과학회 학술발표논문집(KSC),(),1474-1476.(**Best Presentation Award**)
+
 
 ## 🔨 **Languages and Tools**
 <a href="https://skillicons.dev">
