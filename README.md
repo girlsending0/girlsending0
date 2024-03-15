@@ -1,4 +1,4 @@
-# About me! 
+# Hyejeong Jo
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgirlsending0%2Fhit-counter&count_bg=%23EFA5C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Hello there! I work on creating AI that advances the world through the analysis and understanding of data. I specialize in delving deeply into complex data structures to clarify and extract valuable insights for problem-solving. Through various projects, I have strengthened data-driven decision-making and developed efficient algorithms for practical problem resolution. With these experiences, I aim to continuously learn and grow, enjoying new challenges in the fields of data science and artificial intelligence.
