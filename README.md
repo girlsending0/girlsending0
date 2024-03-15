@@ -53,6 +53,17 @@ Hello there! I work on creating AI that advances the world through the analysis 
 * **Hyejeong Jo**, Juhyeok han, Taeseong Kim, Won Hee Lee LMR-CL: LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition. Korea computer congress, 한국컴퓨터종합학술대회(KCC) **(co-first author)**
 * **Hyejeong Jo**, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity.한국정보과학회 학술발표논문집(KSC),(),1474-1476.(**Best Presentation Award**)
 
+### 🔖 **Copyright** 
+* 멀티모달 사용자 경험 평가 분석 도구 (등록번호: C-2023-053985)
+* 가상현실 환경에서 측정된 뇌파 신호 네트워크 기반 분석 및 시각화 도구 프로그램 (등록번호: C-2023-044703)
+* 멀티모달 데이터 융합을 통한 딥러닝 기반 감정 인식 모델 (등록번호: C-2023-044705)
+* 사용자 경험 평가를 위한 멀티모달 데이터 분석 기반 인터랙티브 대시보드 (등록번호:  C-2023-044704)
+
+
+### 💡 **Patent**
+* 멀티모달 데이터의 융합을 기반으로 감정을 인식하기 위한 장치 및 방법
+
+
 
 ## 🔨 **Languages and Tools**
 <a href="https://skillicons.dev">
