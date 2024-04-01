@@ -17,10 +17,10 @@ Hello there! I work on creating AI that advances the world through the analysis 
 
 ### 🌠 **Skill Highlights**  
 * Generative AI (Natural Language Processing)
-* Network science / Graph-theoretical analysis
-* Signal processing technic (Experience in processing physiological signals such as EEG (Electroencephalography), EDA (Electrodermal Activity), and TEMP (Temperature), etc.)
+* Neural decoding / Brain-computer Interface（BCI）
+* Signal processing techniques (Experience in EEG, EDA, etc.)
 * Multimodal AI
-* Graph Neural Networks
+* Network science / Graph-theoretical analysis
 
 ### 👀 **Experience**
 * A multimodal interactive dashboard for user experience evaluation **[2023 CSA Oral session]**
