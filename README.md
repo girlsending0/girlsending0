@@ -47,11 +47,12 @@ Hello there! I work on creating AI that advances the world through the analysis 
 
 
 ### 📜 **Conference** 
-* **Hyejeong Jo**, Won Hee Lee, EEG-based emotion recognition in VR using functional brain networks and graph theoretical measures, Human Brain Mapping Annual Conference, Seoul, Republic of Korea, June, 2024
+* **Hyejeong Jo**, Yiqian Yang, Juhyeok Han, Yiqun Duan, Hui Xiong, Won Hee Lee, Are EEG-to-Text models working?, Arxiv, 2024.
+* **Hyejeong Jo**, Won Hee Lee, EEG-based emotion recognition in VR using functional brain networks and graph theoretical measures, Human Brain Mapping Annual Conference, Seoul, Republic of Korea, June, 2024.
 * **Hyejeong Jo**, Junheok Lee, Hyewon Park, Minjae Kim, Yeonwoo Kim, Won Hee Lee,  A multimodal interactive dashboard for user experience evaluation, The 15th International Conference on Computer Science and Its Applications, Nha Trang, Vietnam, Dec 18-20, (2023).
-* **Hyejeong Jo**, Junhyeok Lee, Hye Won Park, Minjae Kim, Yeonwoo Kim, Won Hee Lee, Developing an integrated dashboard to analyze multimodal data for user experience evaluation, The 8th International Conference on Consumer Electronics (ICCE) Asia, Busan, South Korea, Oct 23-25, 2023
-* **Hyejeong Jo**, Juhyeok han, Taeseong Kim, Won Hee Lee LMR-CL: LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition. Korea computer congress, 한국컴퓨터종합학술대회(KCC) **(co-first author)**
-* **Hyejeong Jo**, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity.한국정보과학회 학술발표논문집(KSC),(),1474-1476.(**Best Presentation Award**)
+* **Hyejeong Jo**, Junhyeok Lee, Hye Won Park, Minjae Kim, Yeonwoo Kim, Won Hee Lee, Developing an integrated dashboard to analyze multimodal data for user experience evaluation, The 8th International Conference on Consumer Electronics (ICCE) Asia, Busan, South Korea, Oct 23-25, 2023.
+* **Hyejeong Jo**, Juhyeok han, Taeseong Kim, Won Hee Lee LMR-CL: LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition. Korea computer congress (KCC) **(co-first author)**. 
+* **Hyejeong Jo**, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity (KSC),(),1474-1476.(**Best Presentation Award**).
 
 ### 🔖 **Copyright** 
 * 멀티모달 사용자 경험 평가 분석 도구 (등록번호: C-2023-053985)
