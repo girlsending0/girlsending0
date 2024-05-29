@@ -64,9 +64,6 @@ Hello there! I work on creating AI that advances the world through the analysis 
 * 멀티모달 데이터의 융합을 기반으로 감정을 인식하기 위한 장치 및 방법
 
 
-[Google Scholar](https://scholar.google.co.kr/citations?user=oJBi0z0AAAAJ&hl=ko&oi=sra)
-[T-story](https://htuck-dev.tistory.com)
-
 </div><br>
  
 
