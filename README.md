@@ -41,7 +41,7 @@ Hello there! I work on creating AI that advances the world through the analysis 
 
 
 ### **Journal**   
-* **Jo, Hye Jeong**, et al. "Analysis of a CubeSat Magnetic Cleanliness for the Space Science Mission." Journal of Space Technology and Applications 2.1 (2022): 41-51.
+* **Hye Jeong Jo**, et al. "Analysis of a CubeSat Magnetic Cleanliness for the Space Science Mission." Journal of Space Technology and Applications 2.1 (2022): 41-51.
 
 
 ### **Conference** 
@@ -52,6 +52,10 @@ Hello there! I work on creating AI that advances the world through the analysis 
 * **Hyejeong Jo**, Ji Hyeon Jeong, Won Hee Lee.(2022).EEG-Based Emotion Recognition in a Virtual Reality Environment Using Functional Brain Connectivity (KSC),(),1474-1476.(**Best Presentation Award**).
 
 ### **Arxiv** 
+* **Hyejeong Jo**, Yiqian Yang, Juhyeok Han, Yiqun Duan, Hui Xiong, Won Hee Lee, MAD: Multi-Alignment MEG-to-Text Decoding
+, Arxiv, 2024.
+* Yiqian Yang, Yiqun Duan, Qiang Zhang, **Hyejeong Jo**, et al. NeuSpeech: Decode Neural signal as Speech
+, Arxiv, 2024.
 * **Hyejeong Jo**, Yiqian Yang, Juhyeok Han, Yiqun Duan, Hui Xiong, Won Hee Lee, Are EEG-to-Text models working?, Arxiv, 2024.
 
 ### **Copyright** 
