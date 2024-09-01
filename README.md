@@ -1,4 +1,4 @@
-# [Hyejeong Jo](https://drive.google.com/file/d/1G9muNxG9YJxevyWWQGcaSTdmyxbEwOpt/view?usp=sharing)  
+# [Hyejeong Jo](https://drive.google.com/file/d/1jYahocmRCB7ZGAYLGl9iqpzYWSPlOMqu/view?usp=sharing)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgirlsending0%2Fhit-counter&count_bg=%23EFA5C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 **AI developer** skilled in working with text, speech, biosignal, physical, and statistical data. **Expert at turning complex data into useful insights**. Develop new AI models by understanding and extracting specific features from data. Dedicated and hard-working with a passion for AI and data science.
   
@@ -9,6 +9,7 @@
 * **BS** in **Astronomy & Space Science**, Kyung Hee University (2023)
 
 ### **Career**  
+* **NaverCloud** Internship, 2024.07 ~.
 * **MS students** at **Artificial Intelligence & Medical Science Lab, Kyung Hee University**, Korea, 2023.03 ~.
   [Lab site](https://sites.google.com/view/khu-aims/home)
 * Undergraduate Researcher at **Artificial Intelligence & Medical Science Lab, Kyung Hee University**, Korea, 2022.08 ~ 2023.03.
