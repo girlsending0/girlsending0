@@ -8,7 +8,7 @@
 * **BS** in **Astronomy & Space Science**, Kyung Hee University (2023)
 
 ### **Career**  
-* **Naver AI Innovation** freelancer, LLM Engineer, Korea, 2025.01 ~.
+* **Naver AI Innovation** Freelancer, LLM Engineer, Korea, 2025.01 ~.
 * **Naver AI Innovation** Internship, LLM Engineer, Korea, 2024.07 ~ 2024.12.
 * MS students at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2023.03 ~ 2025.02.
   [Lab site](https://sites.google.com/view/khu-aims/home)
