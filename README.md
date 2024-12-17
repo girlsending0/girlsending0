@@ -8,8 +8,9 @@
 * **BS** in **Astronomy & Space Science**, Kyung Hee University (2023)
 
 ### **Career**  
-* **Naver AI LAB** Internship, LLM Engineer, Korea, 2024.07 ~.
-* MS students at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2023.03 ~.
+* **Naver AI Innovation** freelancer, LLM Engineer, Korea, 2025.01 ~.
+* **Naver AI Innovation** Internship, LLM Engineer, Korea, 2024.07 ~ 2024.12.
+* MS students at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2023.03 ~ 2025.02.
   [Lab site](https://sites.google.com/view/khu-aims/home)
 * Undergraduate Researcher at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2022.08 ~ 2023.03.
 * Undergraduate Researcher at AIR(Small Satellite, CubeSat, and Science Payload) Lab, Kyung Hee University, Korea, 2020.07 ~ 2020.09.
@@ -37,7 +38,7 @@
 
 ### **Awards**
 * (2023-06) Won the **2nd prize** at the **2023 ETRI Human Understanding Artificial Intelligence Paper Contest** [2023 KCC Oral session and 2nd Prize]. : [news1](https://www.etnews.com/20230621000124) [news2](http://biz.heraldcorp.com/view.php?ud=20230621000315) [news3](https://www.gttkorea.com/news/articleView.html?idxno=5685)
-* (2023-02) Received the **best Presentation Award** at Korea **Korea Software Congress 2022** Poster Presentation.
+* (2023-02) Received the **Best Presentation Award** at Korea **Korea Software Congress 2022** Poster Presentation.
 * (2023-02) 2023 **Korea Space Science Association President's Award**.
 * (2022-11) Ranked **2nd in 2022 AI Hub Learning data-based hackathon competition**: [news1](http://www.e2news.com/news/articleView.html?idxno=248158)
 * (2022-08) San Jose State University SV Software Technology and Innovation Program, Received the **Outstanding Effort** prize.
