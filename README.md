@@ -1,19 +1,18 @@
 # [Hyejeong Jo](https://drive.google.com/file/d/1jYahocmRCB7ZGAYLGl9iqpzYWSPlOMqu/view?usp=sharing)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgirlsending0%2Fhit-counter&count_bg=%23EFA5C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
-**AI developer** skilled in working with text, speech, biosignal, physical, and statistical data. **Expert at turning complex data into useful insights**. Develop new AI models by understanding and extracting specific features from data. Dedicated and hard-working with a passion for AI and data science.
-  
-### **Degree**  
-* **MS** Student (2023 - ), Department of **Software Convergence**, Kyung Hee University
-* **BE** in **Software Convergence**, Kyung Hee University (2023)
-* **BS** in **Astronomy & Space Science**, Kyung Hee University (2023)
+**AI research engineer** skilled in working with text, speech, biosignal, physical, and statistical data. **Expert at turning complex data into useful insights**. Develop new AI models by understanding and extracting specific features from data. Dedicated and hard-working with a passion for AI and data science.
 
 ### **Career**  
 * **Naver AI Innovation** Freelancer, LLM Research Engineer, Korea, 2025.01 ~.
 * **Naver AI Innovation** Internship, LLM Research Engineer, Korea, 2024.07 ~ 2024.12.
 * MS students at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2023.03 ~ 2025.02.
-  [Lab site](https://sites.google.com/view/khu-aims/home)
 * Undergraduate Researcher at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2022.08 ~ 2023.03.
 * Undergraduate Researcher at AIR(Small Satellite, CubeSat, and Science Payload) Lab, Kyung Hee University, Korea, 2020.07 ~ 2020.09.
+
+### **Degree**  
+* **MS** in **Software Convergence**, Kyung Hee University (2025)
+* **BE** in **Software Convergence**, Kyung Hee University (2023)
+* **BS** in **Astronomy & Space Science**, Kyung Hee University (2023)
 
 ### **Skill Highlights**  
 * **LLM Engineering**
